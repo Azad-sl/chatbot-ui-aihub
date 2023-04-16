@@ -313,12 +313,28 @@ export const ChatInput: FC<Props> = ({
       </div>
       <div className="px-3 pt-2 pb-3 text-center text-[12px] text-black/50 dark:text-white/50 md:px-4 md:pt-3 md:pb-6">
         <a
-          href="https://github.com/mckaywrigley/chatbot-ui"
+          href="https://t.zsxq.com/0cy1WzxXu"
           target="_blank"
           rel="noreferrer"
           className="underline"
         >
-          ChatBot UI
+          星球主页
+        </a>
+        <a
+          href="https://prompt.aihub.ren/"
+          target="_blank"
+          rel="noreferrer"
+          className="underline"
+        >
+          获取提示词
+        </a>
+        <a
+          href="https://faka.azad.asia/buy/42"
+          target="_blank"
+          rel="noreferrer"
+          className="underline"
+        >
+          获取账号API
         </a>
         .{' '}
         {t(
