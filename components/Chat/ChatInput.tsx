@@ -319,7 +319,7 @@ export const ChatInput: FC<Props> = ({
           className="underline"
         >
           星球主页
-        </a>
+        </a>&nbsp;&nbsp;
         <a
           href="https://prompt.aihub.ren/"
           target="_blank"
@@ -327,7 +327,7 @@ export const ChatInput: FC<Props> = ({
           className="underline"
         >
           获取提示词
-        </a>
+        </a>&nbsp;&nbsp;
         <a
           href="https://faka.azad.asia/buy/42"
           target="_blank"
@@ -335,7 +335,7 @@ export const ChatInput: FC<Props> = ({
           className="underline"
         >
           获取账号API
-        </a>
+        </a>&nbsp;
         .{' '}
         {t(
           "Chatbot UI is an advanced chatbot kit for OpenAI's chat models aiming to mimic ChatGPT's interface and functionality.",
