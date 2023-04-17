@@ -1,7 +1,7 @@
 {
   "OpenAI API Key Required": "需要 OpenAI API 密钥",
   "Please set your OpenAI API key in the bottom left of the sidebar.": "请在侧边栏左下角设置您的 OpenAI API 密钥。",
-  "If you don't have an OpenAI API key, you can get one here: ": "如果你没有 OpenAI API 密钥，这里提供一个给星友共用(若失效，请联系星主更换)：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。你也可以在此获取：",
+  "If you don't have an OpenAI API key, you can get one here: ": "如果你没有 OpenAI API 密钥，这里提供一个免费的(不保证有效期)：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。你也可以在此获取：",
   "Stop Generating": "停止生成",
   "Prompt limit is {{maxLength}} characters": "提示字数限制为 {{maxLength}} 个字符",
   "System Prompt": "系统提示",
