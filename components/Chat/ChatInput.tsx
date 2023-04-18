@@ -329,7 +329,7 @@ export const ChatInput: FC<Props> = ({
           获取提示词
         </a>&nbsp;&nbsp;
         <a
-          href="https://faka.azad.asia/buy/42"
+          href="https://faka.aihub.ren/buy/42"
           target="_blank"
           rel="noreferrer"
           className="underline"
