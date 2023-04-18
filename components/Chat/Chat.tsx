@@ -181,7 +181,7 @@ export const Chat: FC<Props> = memo(
                   "If you don't have an OpenAI API key, you can get one here: ",
                 )}
                 <a
-                  href="https://faka.azad.asia/buy/42"
+                  href="https://faka.aihub.ren/buy/42"
                   target="_blank"
                   rel="noreferrer"
                   className="text-blue-500 hover:underline"
