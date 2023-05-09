@@ -159,7 +159,7 @@ export const Chat: FC<Props> = memo(
             <div className="text-center text-lg text-black dark:text-white">
               <div className="mb-8">{`Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`}</div>
               <div className="mb-2 font-bold">
-                欢迎加 Q群340825795 共同交流。
+                欢迎加 Q群340825795 共同交流。关注公众号【AI创翼】获取免费ChatGPT账号。
               </div>
             </div>
             <div className="text-center text-gray-500 dark:text-gray-400">
